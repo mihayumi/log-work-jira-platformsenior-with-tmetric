@@ -5,7 +5,7 @@
   - userJira
   - passwordJira
   - accountId and userProfileId - TMetric - "The easiest way to find your workspace ID and user ID is to generate a Team Summary report and copy these values from the browser address bar."
-    - Example: ![alt text](https://tmetric.com/media/kahjypln/workspaceid_userid.png)
+    ![alt text](https://tmetric.com/media/kahjypln/workspaceid_userid.png)
   - tokenTMetric - To get a TMetric API token, on app.tmetric.com: 
     - Click your name in the left bottom corner.
     - Select My Profile in the drop-down list.  
