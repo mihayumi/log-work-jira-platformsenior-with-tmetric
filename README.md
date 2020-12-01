@@ -13,4 +13,7 @@
     - however, keep a word "Bearer " at the beginning
   - loginSenior and passwordSenior - Change if you need to punch the clock in platform senior
 - use TMetric to log work
+  - for each task put the project
+  - the project description should include the issue key
+    - "issuekey - description issue summary"
 - execute file .bat you want
