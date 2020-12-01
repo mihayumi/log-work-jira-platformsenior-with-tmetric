@@ -1,0 +1,32 @@
+{
+  "name": "registrohoras",
+  "version": "1.0.0",
+  "description": "Registro de ponto na plataforma Senior e registro de horas no Jira com TMetric",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^6.0.0",
+    "cypress-iframe": "^1.0.1",
+    "cypress-wait-until": "^1.7.1",
+    "javascript": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "automation",
+    "e2e",
+    "registro",
+    "ponto",
+    "Senior",
+    "trabalho",
+    "Jira",
+    "TMetric",
+    "platform",
+    "Jira"
+  ],
+  "author": "Michelee A. Murai",
+  "license": "MIT"
+}

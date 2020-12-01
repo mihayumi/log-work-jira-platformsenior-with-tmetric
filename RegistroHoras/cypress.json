@@ -1,0 +1,14 @@
+{
+    "env": {
+        "baseUrlTMetric": "https://app.tmetric.com",
+        "baseUrlJira": "https://jira.seudominio.com.br",
+        "baseUrlSenior": "https://platform.senior.com.br",
+        "userJira": "usuarioJira",
+        "passwordJira": "senhaJira",
+        "accountId": 111111,
+        "userProfileId": 111111,
+        "tokenTMetric": "Bearer token",
+        "loginSenior": "loginSenior",
+        "passwordSenior": "passwordSenior"
+    }
+}
