@@ -13,4 +13,4 @@
     - however, keep a word "Bearer " at the beginning
   - loginSenior and passwordSenior - Change if you need to punch the clock in platform senior
 - use TMetric to log work
-- after work execute files .bat you want
+- execute file .bat you want
