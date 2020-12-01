@@ -12,4 +12,5 @@
     - On the My Profile page, click the Get new API token link.
     - however, keep a word "Bearer " at the beginning
   - loginSenior and passwordSenior - Change if you need to punch the clock in platform senior
-- execute files .bat
+- use TMetric to log work
+- after work execute files .bat you want
