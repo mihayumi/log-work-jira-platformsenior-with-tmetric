@@ -1,4 +1,4 @@
-# Log work JIRA plataform senior with tmetric
+# Log work JIRA with tmetric and punch the clock on Plataform Senior
 
 > Record your working hours at JIRA without a headache.
 
